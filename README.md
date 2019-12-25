@@ -21,6 +21,14 @@
 This chrome extension was created to access your social media links easily.
 only HTML and CSS was used to create the extension
 
+#### Changes
+Use the lates manifest version [check here](https://developer.chrome.com/extensions/manifestVersion)
+```json
+  {
+      "manifest_version":2
+  }
+```
+
 ## Guide
 
 ### Adding Chrome Extension to Browser
