@@ -44,5 +44,5 @@
 
 
 <p align="center">
-  <img  src="guide/1.png" width="40%">
+  <img  src="guide/main.png" width="40%">
 </p>
