@@ -30,7 +30,7 @@ only HTML and CSS was used to create the extension
   <img  src="guide/1.png" width="40%">
 </p>
 
-<p align="center">Full Guide -> https://github.com/kaweendras/Custom-Chrome-Extension/blob/master/guide/README.md<h3></h3> </p>
+# [Full Guide](https://github.com/kaweendras/Custom-Chrome-Extension/blob/master/guide/README.md)  <--
 
 
 
