@@ -12,6 +12,13 @@
 [![alt text][3.1]][3]
 [![alt text][6.1]][6]
 
+## About
+<p align="center">
+  <img  src="guide/main.png" width="40%">
+</p>
+This chrome extension was created to access your social media links easily.
+only HTML and CSS was used to create the extension
+
 ## Guide
 
 ### Adding Chrome Extension to Browser
@@ -23,40 +30,8 @@
   <img  src="guide/1.png" width="40%">
 </p>
 
-#### 2 Enable Developer Mode
+<p align="center">Full Guide -> https://github.com/kaweendras/Custom-Chrome-Extension/blob/master/guide/README.md<h3></h3> </p>
 
-
-<p align="center">
-  <img  src="guide/2.png" width="40%">
-</p>
-
-#### 3 Load Unpacked
-
-
-<p align="center">
-  <img  src="guide/3.png" width="40%">
-</p>
-
-#### 4 Select the Project folder
-
-
-<p align="center">
-  <img  src="guide/4.png" width="40%">
-</p>
-
-#### 5 Your Extension will appear
-
-
-<p align="center">
-  <img  src="guide/5.png" width="40%">
-</p>
-
-#### 6 Voila
-
-
-<p align="center">
-  <img  src="guide/main.png" width="40%">
-</p>
 
 
 
