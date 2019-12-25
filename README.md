@@ -62,16 +62,16 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kaweendras/kaweendras.github.io.svg?style=flat-square
-[contributors-url]: https://github.com/kaweendras/kaweendras.github.io/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kaweendras/kaweendras.github.io
-[forks-url]: https://github.com/kaweendras/kaweendras.github.io/network/members
-[stars-shield]: https://img.shields.io/github/stars/kaweendras/kaweendras.github.io.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
+[contributors-url]: https://github.com/kaweendras/Custom-Chrome-Extension/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kaweendras/Custom-Chrome-Extension
+[forks-url]: https://github.com/kaweendras/Custom-Chrome-Extension/network/members
+[stars-shield]: https://img.shields.io/github/stars/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
 [stars-url]: https://github.com/kaweendras/kaweendras.github.io/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kaweendras/kaweendras.github.io.svg?style=flat-square
-[issues-url]: https://github.com/kaweendras/kaweendras.github.io/issues
-[license-shield]: https://img.shields.io/github/license/kaweendras/SLIIT_Gaming_community_official_web_page.svg?style=flat-square
-[license-url]: https://github.com/kaweendras/SLIIT_Gaming_community_official_web_pageblob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
+[issues-url]: https://github.com/kaweendras/Custom-Chrome-Extension/issues
+[license-shield]: https://img.shields.io/github/license/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
+[license-url]: https://github.com/kaweendras/Custom-Chrome-Extensionblob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
 
