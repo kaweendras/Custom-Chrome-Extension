@@ -11,6 +11,8 @@
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][6.1]][6]
+</br>
+[![alt text][7.1]][7] Visit
 
 ## About
 <p align="center">
@@ -54,9 +56,11 @@ only HTML and CSS was used to create the extension
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus)
 [6.1]: http://i.imgur.com/0o48UoR.png (github)
+[7.1]: https://img.icons8.com/material-outlined/22/000000/globe--v2.png (web)
 
 
 [1]: http://www.twitter.com/dear__spider
 [2]: http://www.facebook.com/kaweendra
 [3]: https://plus.google.com/salithak1
 [6]: http://www.github.com/kaweendras
+[7]: http://kaweendras.github.io
