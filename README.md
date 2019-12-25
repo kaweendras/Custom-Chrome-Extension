@@ -71,7 +71,7 @@
 [issues-shield]: https://img.shields.io/github/issues/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
 [issues-url]: https://github.com/kaweendras/Custom-Chrome-Extension/issues
 [license-shield]: https://img.shields.io/github/license/kaweendras/Custom-Chrome-Extension.svg?style=flat-square
-[license-url]: https://github.com/kaweendras/Custom-Chrome-Extension/blob/master/LICENSE.txt
+[license-url]: https://github.com/kaweendras/Custom-Chrome-Extension/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
 
 
